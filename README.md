@@ -82,7 +82,7 @@ python main.py
 👤 Cerberus
 🛠️ IT-специалист, интересуюсь кибербезопасностью, играми и скоростью — как в Koenigsegg.
 📍 “Code fast. Think faster.”
-📧 [вставь email или ник]
+📧 [cerberusbridi@gmail.com]
 
 <p align="center"> <img src="images/koenigsegg_dark.jpg" width="500" alt="Koenigsegg style"> </p>
 ⚔️ Лицензия
